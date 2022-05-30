@@ -1,7 +1,7 @@
 url: https://n.hyperborea.cloud
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2022-05-30T14:41:47.241Z
+status: down
+code: 502
+responseTime: 285
+lastUpdated: 2022-05-30T15:04:59.400Z
 startTime: Wed Aug 25 2021 14:08:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
