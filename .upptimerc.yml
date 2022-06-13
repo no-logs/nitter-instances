@@ -157,9 +157,29 @@ sites:
   - name: nitter.cz
     url: https://nitter.cz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cz.png
+  - name: nitter.privacydev.net
+    url: https://nitter.privacydev.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: tweet.lambda.dance
+    url: https://tweet.lambda.dance
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.ebnar.xyz
+    url: https://nitter.ebnar.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.kylrth.com
+    url: https://nitter.kylrth.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.oishi-ra.men
+    url: https://nitter.oishi-ra.men
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.foss.wtf
+    url: https://nitter.foss.wtf
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  # not on https://github.com/zedeus/nitter/wiki/Instances
   - name: nitter.priv.pw
     url: https://nitter.priv.pw
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
