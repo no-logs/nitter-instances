@@ -100,9 +100,6 @@ sites:
   - name: fuckthesacklers.network
     url: https://fuckthesacklers.network
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
-  - name: nitter.govt.land
-    url: https://nitter.govt.land
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
   - name: nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
