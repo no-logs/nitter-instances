@@ -130,9 +130,6 @@ sites:
   - name: nitter.poast.org
     url: https://nitter.poast.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.lunar.icu
-    url: https://nitter.lunar.icu
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.bird.froth.zone
     url: https://nitter.bird.froth.zone
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
