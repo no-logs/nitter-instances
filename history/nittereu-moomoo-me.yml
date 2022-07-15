@@ -1,7 +1,7 @@
 url: https://nittereu.moomoo.me
-status: up
-code: 200
-responseTime: 1377
-lastUpdated: 2022-07-15T21:46:45.847Z
+status: down
+code: 502
+responseTime: 295
+lastUpdated: 2022-07-15T21:53:51.497Z
 startTime: Thu Dec 30 2021 16:29:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
