@@ -1,7 +1,7 @@
 url: https://nitter.moomoo.me
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2022-07-23T09:03:24.243Z
+status: down
+code: 502
+responseTime: 15784
+lastUpdated: 2022-07-23T11:40:29.927Z
 startTime: Sun May 23 2021 01:34:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
