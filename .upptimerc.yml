@@ -56,9 +56,6 @@ sites:
   - name: nitter.grimneko.de
     url: https://nitter.grimneko.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: n.hyperborea.cloud
-    url: https://n.hyperborea.cloud
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
   - name: nitter.ca
     url: https://nitter.ca
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
@@ -121,9 +118,6 @@ sites:
   - name: nitter.privacy.com.de
     url: https://nitter.privacy.com.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.mastodon.pro
-    url: https://nitter.mastodon.pro
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
   - name: nitter.notraxx.ch
     url: https://nitter.notraxx.ch
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
