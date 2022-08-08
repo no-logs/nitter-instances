@@ -160,16 +160,54 @@ sites:
   - name: nitter.kylrth.com
     url: https://nitter.kylrth.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
-  - name: nitter.oishi-ra.men
-    url: https://nitter.oishi-ra.men
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.foss.wtf
     url: https://nitter.foss.wtf
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  # not on https://github.com/zedeus/nitter/wiki/Instances
   - name: nitter.priv.pw
     url: https://nitter.priv.pw
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.wef.lol
+    url: https://nitter.wef.lol
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/is.png
+  - name: nitter.tokhmi.xyz
+    url: https://nitter.tokhmi.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.catalyst.sx
+    url: https://nitter.catalyst.sx
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: unofficialbird.com
+    url: https://unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.projectsegfau.lt
+    url: https://nitter.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/lu.png
+  - name: singapore.unofficialbird.com
+    url: https://singapore.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
+  - name: twt.funami.tech
+    url: https://twt.funami.tech
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/kr.png
+  - name: nitter.fprivacy.com
+    url: https://nitter.fprivacy.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
+  - name: canada.unofficialbird.com
+    url: https://canada.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: india.unofficialbird.com
+    url: https://india.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: nederland.unofficialbird.com
+    url: https://nederland.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: uk.unofficialbird.com
+    url: https://uk.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
+  - name: n.l5.ca
+    url: https://n.l5.ca
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.slipfox.xyz
+    url: https://nitter.slipfox.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 
 status-website:
