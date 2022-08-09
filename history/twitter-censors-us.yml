@@ -1,7 +1,7 @@
 url: https://twitter.censors.us
-status: up
-code: 200
-responseTime: 625
-lastUpdated: 2022-08-08T23:03:32.233Z
+status: down
+code: 502
+responseTime: 497
+lastUpdated: 2022-08-09T18:29:48.791Z
 startTime: Fri Jul 30 2021 14:09:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
