@@ -9,7 +9,7 @@
     "uptimeDay": "98.56%",
     "uptimeWeek": "95.80%",
     "uptimeMonth": "92.45%",
-    "uptimeYear": "92.24%",
+    "uptimeYear": "92.25%",
     "time": 799,
     "timeDay": 313,
     "timeWeek": 503,
@@ -753,19 +753,19 @@
     "url": "https://nitter.ca",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "nitter-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
     "time": 256,
     "timeDay": 229,
     "timeWeek": 243,
-    "timeMonth": 292,
+    "timeMonth": 291,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2022-08-10": 67,
+      "2022-08-10": 75,
       "2022-08-09": 63,
       "2021-12-16": 47
     }
@@ -1532,7 +1532,7 @@
     "timeMonth": 154,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-08-10": 603,
+      "2022-08-10": 614,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -1928,7 +1928,7 @@
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-08-10": 603,
+      "2022-08-10": 614,
       "2022-08-09": 1440,
       "2022-08-08": 285
     }
