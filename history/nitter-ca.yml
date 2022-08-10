@@ -1,7 +1,7 @@
 url: https://nitter.ca
-status: down
-code: 502
-responseTime: 132
-lastUpdated: 2022-08-10T19:06:29.388Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2022-08-10T19:17:07.500Z
 startTime: Wed Sep 08 2021 13:54:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
