@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-net",
     "status": "up",
-    "uptime": "27.25%",
+    "uptime": "27.26%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "95.80%",
     "uptimeMonth": "92.45%",
@@ -753,11 +753,11 @@
     "url": "https://nitter.ca",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "nitter-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
     "time": 256,
     "timeDay": 238,
@@ -765,7 +765,7 @@
     "timeMonth": 295,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2022-08-10": 67,
+      "2022-08-10": 75,
       "2022-08-09": 63,
       "2021-12-16": 47
     }
@@ -1532,7 +1532,7 @@
     "timeMonth": 154,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-08-10": 446,
+      "2022-08-10": 456,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -1749,7 +1749,7 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "tweet-lambda-dance",
     "status": "up",
-    "uptime": "77.41%",
+    "uptime": "77.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1928,7 +1928,7 @@
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-08-10": 446,
+      "2022-08-10": 457,
       "2022-08-09": 1440,
       "2022-08-08": 285
     }
