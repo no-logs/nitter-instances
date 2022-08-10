@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-net",
     "status": "up",
-    "uptime": "27.30%",
+    "uptime": "27.31%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "95.80%",
     "uptimeMonth": "92.45%",
@@ -753,19 +753,19 @@
     "url": "https://nitter.ca",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "nitter-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
     "time": 255,
-    "timeDay": 226,
+    "timeDay": 227,
     "timeWeek": 239,
-    "timeMonth": 286,
+    "timeMonth": 285,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2022-08-10": 67,
+      "2022-08-10": 73,
       "2022-08-09": 63,
       "2021-12-16": 47
     }
@@ -1532,7 +1532,7 @@
     "timeMonth": 154,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-08-10": 690,
+      "2022-08-10": 700,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -1727,11 +1727,11 @@
     "url": "https://nitter.privacydev.net",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "nitter-privacydev-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.41%",
     "time": 301,
     "timeDay": 290,
@@ -1739,6 +1739,7 @@
     "timeMonth": 306,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2022-08-10": 4,
       "2022-07-16": 23,
       "2022-07-10": 466
     }
@@ -1928,7 +1929,7 @@
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-08-10": 690,
+      "2022-08-10": 700,
       "2022-08-09": 1440,
       "2022-08-08": 285
     }
