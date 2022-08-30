@@ -1,7 +1,7 @@
 url: https://twtr.bch.bar
-status: up
-code: 200
-responseTime: 619
-lastUpdated: 2022-08-28T23:03:09.630Z
+status: down
+code: 502
+responseTime: 1482
+lastUpdated: 2022-08-30T18:20:12.567Z
 startTime: Wed Feb 23 2022 13:34:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
