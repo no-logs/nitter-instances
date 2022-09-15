@@ -1,7 +1,7 @@
 url: https://nitter.cz
-status: up
-code: 200
-responseTime: 490
-lastUpdated: 2022-09-14T23:25:36.092Z
+status: down
+code: 502
+responseTime: 638
+lastUpdated: 2022-09-15T08:01:19.558Z
 startTime: Mon May 23 2022 19:28:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
