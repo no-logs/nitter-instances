@@ -202,6 +202,9 @@ sites:
   - name: nitter.slipfox.xyz
     url: https://nitter.slipfox.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.sneed.network
+    url: https://nitter.sneed.network
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/au.png
 
 
 status-website:
