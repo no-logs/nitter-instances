@@ -100,9 +100,6 @@ sites:
   - name: tw.artemislena.eu
     url: https://tw.artemislena.eu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: de.nttr.stream
-    url: https://de.nttr.stream
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.winscloud.net
     url: https://nitter.winscloud.net
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/th.png
