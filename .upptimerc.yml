@@ -157,9 +157,6 @@ sites:
   - name: nitter.priv.pw
     url: https://nitter.priv.pw
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.wef.lol
-    url: https://nitter.wef.lol
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/is.png
   - name: nitter.tokhmi.xyz
     url: https://nitter.tokhmi.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
