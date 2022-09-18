@@ -190,9 +190,45 @@ sites:
   - name: nitter.slipfox.xyz
     url: https://nitter.slipfox.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.soopy.moe
+    url: https://nitter.soopy.moe
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hk.png
+  - name: nitter.qwik.space
+    url: https://nitter.qwik.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/.png
+  - name: read.whatever.social
+    url: https://read.whatever.social
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.rawbit.ninja
+    url: https://nitter.rawbit.ninja
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nt.vern.cc
+    url: https://nt.vern.cc
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: ntr.odyssey346.dev
+    url: https://ntr.odyssey346.dev
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/pl.png
+  - name: nitter.ir
+    url: https://nitter.ir
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.privacytools.io
+    url: https://nitter.privacytools.io
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
   - name: nitter.sneed.network
     url: https://nitter.sneed.network
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/au.png
+  - name: nitter.manasiwibi.com
+    url: https://nitter.manasiwibi.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
+  - name: nitter.smnz.de
+    url: https://nitter.smnz.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.twei.space
+    url: https://nitter.twei.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/at.png
+  - name: nitter.inpt.fr
+    url: https://nitter.inpt.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
 
 
 status-website:
