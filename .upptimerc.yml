@@ -229,6 +229,9 @@ sites:
   - name: nitter.inpt.fr
     url: https://nitter.inpt.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.pw
+    url: https://nitter.pw
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
 
 
 status-website:
