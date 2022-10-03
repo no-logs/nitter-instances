@@ -62,7 +62,7 @@
     "status": "up",
     "uptime": "98.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.61%",
+    "uptimeWeek": "77.58%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "98.61%",
     "time": 813,
@@ -71,7 +71,7 @@
     "timeMonth": 859,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2022-10-03": 762,
+      "2022-10-03": 764,
       "2022-10-02": 1440,
       "2022-10-01": 56,
       "2022-09-17": 59,
@@ -755,7 +755,7 @@
     "status": "up",
     "uptime": "94.63%",
     "uptimeDay": "96.56%",
-    "uptimeWeek": "82.84%",
+    "uptimeWeek": "82.87%",
     "uptimeMonth": "31.92%",
     "uptimeYear": "94.26%",
     "time": 264,
@@ -1597,7 +1597,7 @@
     "timeMonth": 173,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-10-03": 764,
+      "2022-10-03": 767,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
@@ -2030,7 +2030,7 @@
     "timeMonth": 149,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-10-03": 764,
+      "2022-10-03": 767,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
@@ -2467,18 +2467,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png",
     "slug": "nitter-privacytools-io",
     "status": "up",
-    "uptime": "25.81%",
-    "uptimeDay": "8.07%",
-    "uptimeWeek": "9.62%",
-    "uptimeMonth": "25.81%",
-    "uptimeYear": "25.81%",
+    "uptime": "25.60%",
+    "uptimeDay": "8.66%",
+    "uptimeWeek": "9.68%",
+    "uptimeMonth": "25.60%",
+    "uptimeYear": "25.60%",
     "time": 6022,
     "timeDay": 780,
     "timeWeek": 5871,
     "timeMonth": 6022,
     "timeYear": 6022,
     "dailyMinutesDown": {
-      "2022-10-03": 728,
+      "2022-10-03": 723,
       "2022-10-02": 1270,
       "2022-10-01": 1163,
       "2022-09-30": 1323,
@@ -2492,7 +2492,7 @@
       "2022-09-22": 1048,
       "2022-09-21": 660,
       "2022-09-20": 561,
-      "2022-09-19": 439
+      "2022-09-19": 492
     }
   },
   {
