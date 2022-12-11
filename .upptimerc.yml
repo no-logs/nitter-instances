@@ -157,9 +157,6 @@ sites:
   - name: singapore.unofficialbird.com
     url: https://singapore.unofficialbird.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
-  - name: twt.funami.tech
-    url: https://twt.funami.tech
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/kr.png
   - name: nitter.fprivacy.com
     url: https://nitter.fprivacy.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
