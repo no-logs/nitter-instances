@@ -124,9 +124,6 @@ sites:
   - name: twitter.beparanoid.de
     url: https://twitter.beparanoid.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
-  - name: n.ramle.be
-    url: https://n.ramle.be
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/be.png
   - name: nitter.cz
     url: https://nitter.cz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cz.png
