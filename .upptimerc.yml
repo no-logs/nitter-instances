@@ -106,9 +106,6 @@ sites:
   - name: nitter.spaceint.fr
     url: https://nitter.spaceint.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/be.png
-  - name: twtr.bch.bar
-    url: https://twtr.bch.bar
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
   - name: nitter.privacy.com.de
     url: https://nitter.privacy.com.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
