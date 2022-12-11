@@ -246,6 +246,7 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
   - name: nitter.nicfab.eu
     url: https://nitter.nicfab.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
   - name: bird.habedieeh.re
     url: https://bird.habedieeh.re
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
