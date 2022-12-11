@@ -246,13 +246,45 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
   - name: nitter.nicfab.eu
     url: https://nitter.nicfab.eu
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
+  - name: bird.habedieeh.re
+    url: https://bird.habedieeh.re
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.hostux.net
+    url: https://nitter.hostux.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.adminforge.de
+    url: https://nitter.adminforge.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.platypush.tech
+    url: https://nitter.platypush.tech
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.mask.sh
+    url: https://nitter.mask.sh
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.pufe.org
+    url: https://nitter.pufe.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nz.png
+  - name: nitter.us.projectsegfau.lt
+    url: https://nitter.us.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.marcopisco.com
+    url: https://nitter.marcopisco.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/pt.png
+  - name: nitter.arcticfoxes.net
+    url: https://nitter.arcticfoxes.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
+  - name: t.com.sb
+    url: https://t.com.sb
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ee.png
+  - name: nitter.selfhostable.net
+    url: https://nitter.selfhostable.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.kling.gg
+    url: https://nitter.kling.gg
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
 
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: xnaas.github.io
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /nitter-instances
   logoUrl: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon-32x32.png
   name: Nitter Instances
