@@ -1,7 +1,7 @@
 url: https://nitter.poast.org
-status: up
-code: 200
-responseTime: 326
-lastUpdated: 2023-01-09T10:30:31.821Z
+status: down
+code: 502
+responseTime: 632
+lastUpdated: 2023-01-11T22:07:39.127Z
 startTime: Mon Mar 28 2022 19:18:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
