@@ -1,7 +1,7 @@
 url: https://nitter.pufe.org
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2023-02-03T23:51:53.978Z
+status: down
+code: 503
+responseTime: 717
+lastUpdated: 2023-02-03T23:59:12.689Z
 startTime: Sun Dec 11 2022 04:53:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
