@@ -1,7 +1,7 @@
 url: https://nitter.soopy.moe
-status: up
-code: 200
-responseTime: 839
-lastUpdated: 2023-02-02T23:03:51.541Z
+status: down
+code: 502
+responseTime: 1083
+lastUpdated: 2023-02-03T19:25:57.971Z
 startTime: Sun Sep 18 2022 15:58:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
