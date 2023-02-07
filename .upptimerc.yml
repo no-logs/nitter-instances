@@ -35,9 +35,6 @@ sites:
   - name: birdsite.xanny.family
     url: https://birdsite.xanny.family
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
-  - name: nitter.hu
-    url: https://nitter.hu
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png
   - name: nitter.moomoo.me
     url: https://nitter.moomoo.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
@@ -85,9 +82,6 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
     assignees:
       - austinhuang0131
-  - name: fuckthesacklers.network
-    url: https://fuckthesacklers.network
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
   - name: nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
@@ -153,9 +147,6 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/lu.png
   - name: singapore.unofficialbird.com
     url: https://singapore.unofficialbird.com
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
-  - name: nitter.fprivacy.com
-    url: https://nitter.fprivacy.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
   - name: canada.unofficialbird.com
     url: https://canada.unofficialbird.com
@@ -253,9 +244,6 @@ sites:
   - name: nitter.us.projectsegfau.lt
     url: https://nitter.us.projectsegfau.lt
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.marcopisco.com
-    url: https://nitter.marcopisco.com
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/pt.png
   - name: nitter.arcticfoxes.net
     url: https://nitter.arcticfoxes.net
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
@@ -268,9 +256,6 @@ sites:
   - name: nitter.kling.gg
     url: https://nitter.kling.gg
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
-  - name: twt.funami.tech
-    url: https://twt.funami.tech
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/kr.png
 
 
 status-website:
