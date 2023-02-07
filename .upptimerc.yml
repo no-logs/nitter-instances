@@ -256,6 +256,36 @@ sites:
   - name: nitter.kling.gg
     url: https://nitter.kling.gg
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.ktachibana.party
+    url: https://nitter.ktachibana.party
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.riverside.rocks
+    url: https://nitter.riverside.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.girlboss.ceo
+    url: https://nitter.girlboss.ceo
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.lunar.icu
+    url: https://nitter.lunar.icu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twitter.moe.ngo
+    url: https://twitter.moe.ngo
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/id.png
+  - name: nitter.freedit.eu
+    url: https://nitter.freedit.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: ntr.frail.duckdns.org
+    url: https://ntr.frail.duckdns.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/br.png
+  - name: nitter.us.projectsegfau.lt
+    url: https://nitter.us.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.librenode.org
+    url: https://nitter.librenode.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: n.opnxng.com
+    url: https://n.opnxng.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
 
 
 status-website:
