@@ -241,9 +241,6 @@ sites:
   - name: t.com.sb
     url: https://t.com.sb
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ee.png
-  - name: nitter.selfhostable.net
-    url: https://nitter.selfhostable.net
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
   - name: nitter.kling.gg
     url: https://nitter.kling.gg
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
