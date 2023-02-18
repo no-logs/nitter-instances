@@ -232,9 +232,6 @@ sites:
   - name: nitter.platypush.tech
     url: https://nitter.platypush.tech
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.mask.sh
-    url: https://nitter.mask.sh
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.pufe.org
     url: https://nitter.pufe.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nz.png
