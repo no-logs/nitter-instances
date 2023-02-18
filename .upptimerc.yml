@@ -178,9 +178,6 @@ sites:
   - name: nt.vern.cc
     url: https://nt.vern.cc
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: ntr.odyssey346.dev
-    url: https://ntr.odyssey346.dev
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/pl.png
   - name: nitter.ir
     url: https://nitter.ir
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
