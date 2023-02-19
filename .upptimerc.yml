@@ -26,9 +26,6 @@ sites:
   - name: nitter.domain.glass
     url: https://nitter.domain.glass
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.namazso.eu
-    url: https://nitter.namazso.eu
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: birdsite.xanny.family
     url: https://birdsite.xanny.family
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
