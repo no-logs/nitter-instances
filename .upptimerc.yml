@@ -271,6 +271,9 @@ sites:
   - name: n.opnxng.com
     url: https://n.opnxng.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+  - name: nitter.plus.st
+    url: https://nitter.plus.st
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 
 status-website:
