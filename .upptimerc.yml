@@ -268,6 +268,18 @@ sites:
   - name: nitter.plus.st
     url: https://nitter.plus.st
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.in.projectsegfau.lt
+    url: https://nitter.in.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: nitter.tux.pizza
+    url: https://nitter.tux.pizza
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: t.floss.media
+    url: https://t.floss.media
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: twit.hell.rodeo
+    url: https://twit.hell.rodeo
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 
 status-website:
