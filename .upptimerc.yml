@@ -71,11 +71,6 @@ sites:
   - name: nitter.mint.lgbt
     url: https://nitter.mint.lgbt
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
-  - name: nitter.bus-hit.me
-    url: https://nitter.bus-hit.me
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
-    assignees:
-      - austinhuang0131
   - name: nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
