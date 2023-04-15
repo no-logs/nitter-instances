@@ -1,7 +1,7 @@
 url: https://nitter.inpt.fr
-status: up
-code: 200
-responseTime: 1000
-lastUpdated: 2023-04-14T23:03:56.265Z
+status: down
+code: 503
+responseTime: 1077
+lastUpdated: 2023-04-15T13:41:23.115Z
 startTime: Sun Sep 18 2022 15:58:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
