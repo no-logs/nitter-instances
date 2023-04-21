@@ -263,7 +263,36 @@ sites:
   - name: twit.hell.rodeo
     url: https://twit.hell.rodeo
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-
+  - name: twt.funami.tech
+    url: https://twt.funami.tech
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/kr.png
+  - name: nitter.nachtalb.io
+    url: https://nitter.nachtalb.io
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
+  - name: n.quadtr.ee
+    url: https://n.quadtr.ee
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.altgr.xyz
+    url: https://nitter.altgr.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cl.png
+  - name: jote.lile.cl
+    url: https://jote.lile.cl
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cl.png
+  - name: nitter.one
+    url: https://nitter.one
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
+  - name: nitter.edist.ro
+    url: https://nitter.edist.ro
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.edist.ro
+    url: https://nitter.edist.ro
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/no.png
+  - name: nitter.simpleprivacy.fr
+    url: https://nitter.simpleprivacy.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.io.lol
+    url: https://nitter.io.lol
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 status-website:
   baseUrl: /nitter-instances
