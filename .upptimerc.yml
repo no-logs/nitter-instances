@@ -248,9 +248,6 @@ sites:
   - name: ntr.frail.duckdns.org
     url: https://ntr.frail.duckdns.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/br.png
-  - name: nitter.librenode.org
-    url: https://nitter.librenode.org
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: n.opnxng.com
     url: https://n.opnxng.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
