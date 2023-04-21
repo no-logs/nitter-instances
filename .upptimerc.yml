@@ -236,9 +236,6 @@ sites:
   - name: nitter.riverside.rocks
     url: https://nitter.riverside.rocks
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.girlboss.ceo
-    url: https://nitter.girlboss.ceo
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.lunar.icu
     url: https://nitter.lunar.icu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
