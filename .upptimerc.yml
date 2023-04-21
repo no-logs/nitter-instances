@@ -116,9 +116,6 @@ sites:
   - name: nitter.kylrth.com
     url: https://nitter.kylrth.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
-  - name: nitter.foss.wtf
-    url: https://nitter.foss.wtf
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.priv.pw
     url: https://nitter.priv.pw
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
