@@ -179,9 +179,6 @@ sites:
   - name: nitter.sneed.network
     url: https://nitter.sneed.network
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/au.png
-  - name: nitter.manasiwibi.com
-    url: https://nitter.manasiwibi.com
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
   - name: nitter.smnz.de
     url: https://nitter.smnz.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
