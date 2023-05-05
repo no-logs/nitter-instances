@@ -293,6 +293,10 @@ sites:
   - name: nitter.io.lol
     url: https://nitter.io.lol
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.no-logs.com
+    url: https://nitter.no-logs.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+
 
 status-website:
   baseUrl: /nitter-instances
